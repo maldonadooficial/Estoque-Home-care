@@ -1,0 +1,5 @@
+{
+  "name": "Gerenciador de Estoque",
+  "description": "Um aplicativo simples para gerenciar o estoque, permitindo adicionar e remover itens com suas quantidades.",
+  "requestFramePermissions": []
+}
